@@ -17,25 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Wenhui Chen, a Ph.D. student in Software Engineering at the School of Software, Beijing Jiaotong University. My research focuses on industrial defect detection and recommendation systems.
+I am Wenhui Chen, a Ph.D. student in Software Engineering at the School of Software, Beijing Jiaotong University. My research focuses on industrial defect detection and recommendation systems. 
 
-Email: [wenhuichen@bjtu.edu.cn](mailto:wenhuichen@bjtu.edu.cn)  
-Phone: +86 18353740533
+**During M.Eng. study:** Recommendation Systems, focusing on cold-start recommendation, complementary recommendation, and LLM-enhanced recommendation. Research topics include functional complementarity modeling, semantic information enhancement with LLMs, and graph-based contrastive learning for improving recommendation accuracy.
 
-# Education
+**During Ph.D. study:** Industrial Defect Detection, focusing on 2D image-based and 3D point-cloud-based object detection in industrial scenarios. Research topics include multi-scale and multi-level feature representation, feature pyramid enhancement, and robust detection of small, sparse, and complex defects.
+
+# 📖Education
 
 - *2024 - Present*, **Ph.D. Student** in Software Engineering, School of Software, Beijing Jiaotong University (BJTU), Beijing, China.
 - *2021 - 2024*, **M.Eng.** in Computer Technology, School of Information Science and Engineering, Yanshan University (YSU), Qinhuangdao, China.
 - *2016 - 2020*, **B.Eng.** in Software Engineering, School of Computer Science and Technology, Shandong Jianzhu University (SDJZU), Jinan, China.
 
-# Research Interests
+# 📝Publications
 
-- **During M.Eng. study:** Recommendation Systems, focusing on cold-start recommendation, complementary recommendation, and LLM-enhanced recommendation. Research topics include functional complementarity modeling, semantic information enhancement with LLMs, and graph-based contrastive learning for improving recommendation accuracy.
-- **During Ph.D. study:** Industrial Defect Detection, focusing on 2D image-based and 3D point-cloud-based object detection in industrial scenarios. Research topics include multi-scale and multi-level feature representation, feature pyramid enhancement, and robust detection of small, sparse, and complex defects.
-
-# Publications
-
-## Published Papers
+##  &nbsp;🎉🎉🎉Published Papers
 
 1. **Wenhui Chen**, Jirui Liu, Zhenyan Ji, et al., DMMCNet: Dynamic Multi-scale and Multi-level Contrastive Point Cloud Feature Extraction Network for Industrial Defect Detection, *IEEE Transactions on Industrial Informatics*, **SCI Q1, IF: 9.9**, 2026.
 
@@ -49,17 +45,17 @@ Phone: +86 18353740533
 
 6. Zhen Chen, **Wenhui Chen**, Xiaowei Liu, et al., Cloud API Recommendation Method Enhanced by Functional Complementarity Relationships, *Journal on Communications*, 44(6): 125--137, **EI; Advisor first author; Wenhui Chen second author**, 2023.
 
-## Co-authored Papers
+##  &nbsp;🎉🎉Co-authored Papers
 
 7. Xiaowei Liu, Mengmeng Sun, **Wenhui Chen**, Dianlong You, Limin Shen, Zhen Chen, Complementarity Analysis of Cloud API Ecosystems: An Empirical Study on ProgrammableWeb and Huawei AppGallery Datasets, *2024 IEEE International Conference on Web Services (ICWS)*, **Conference Paper, IEEE**, 2024.
 
 8. Xiaowei Liu, **Wenhui Chen**, Mengmeng Sun, Yali Si, Zhen Chen, A Practical Cloud API Complementary Recommendation Service for Mashup Creation, *2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD)*, **Conference Paper, IEEE**, 2024.
 
-## Under Review Papers
+##  &nbsp;🎉Under Review Papers
 
 9. **Wenhui Chen**, Zhenyan Ji, et al., SEF-FPN: Separation-Enhancement-Fusion Feature Pyramid Network for Industrial Defect Detection, submitted to *IEEE Transactions on Industrial Informatics*, **Under Review, SCI Q1**.
 
-# Research Projects
+# 💻Research Projects
 
 1. *Apr. 2026 - Present*, Railway Bulk Freight Industry Operation Data Management, **Natural Science Horizontal Project**, Role: Participant, PI: Zhenyan Ji.
 
@@ -73,20 +69,11 @@ Phone: +86 18353740533
 
 6. *Jan. 2023 - Jan. 2025*, Research on Deep Cloud API Recommendation Models and Applications Based on Bilateral Functional Complementarity, **Hebei Provincial Graduate Innovation Ability Training Funding Project**, Role: Participant, PI: Xiaowei Liu.
 
-# Academic Services
+# 💬Academic Services
 
 - Reviewer for *IEEE Transactions on Consumer Electronics* (TCE), *IEEE Transactions on Industrial Informatics* (TII), and *Knowledge-Based Systems* (KBS).
 
-# Skills
-
-- **Languages:** English (CET-6)
-- **Programming Languages:** Python, C++
-- **Deep Learning Frameworks:** PyTorch
-- **Development Tools:** VSCode, Codex
-- **Data Analysis and Visualization:** Origin, Visio
-- **Office Software:** Word, PowerPoint, Excel
-
-# Honors and Awards
+# 🎖Honors and Awards
 
 - *2024*, National Scholarship for Graduate Students.
 - *2022*, Provincial First Prize, Lanqiao Cup Software Design Contest.

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenhui Chen"
-description              : "Ph.D. Student in Software Engineering at Beijing Jiaotong University. Research interests include industrial defect detection and recommendation systems."
+description              : "Research interests include industrial defect detection and recommender systems."
 repository               : "Nowcwh/wenhuichen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/profile.jpg"
   bio              : "Ph.D. Student, School of Software, Beijing Jiaotong University"
   location         : "Beijing, China"
-  employer         : "Beijing Jiaotong University"
+  employer         : 
   pubmed           : 
   googlescholar    :
   email            : "wenhuichen@bjtu.edu.cn"
