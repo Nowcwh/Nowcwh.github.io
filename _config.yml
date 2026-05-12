@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Wenhui Chen"
 description              : "Research interests include industrial defect detection and recommender systems."
-repository               : "Nowcwh/wenhuichen.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "Nowcwh/nowcwh.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
